@@ -1,6 +1,3 @@
-create schema mytunes in db,
-import tables maybe with MySQL Workbench,
-
 run as spring-boot app;
 
 @TODO
