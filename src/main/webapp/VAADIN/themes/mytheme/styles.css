@@ -19,6 +19,11 @@
  * @group util
  */
 
+ 
+ .loginbackgroundimage {
+ 	background url (images/dark-1850120_1280.jpg);
+ }
+
 @-webkit-keyframes valo-animate-in-fade {
 		0% {
 		opacity: 0;
