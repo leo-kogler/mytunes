@@ -30,3 +30,5 @@ based on the work of Mr. Marten Prieß, Mr. Bryson Dunn, and many more @ vaadin 
  
  */ 
  
+ no commercial use nor distribution
+ 
